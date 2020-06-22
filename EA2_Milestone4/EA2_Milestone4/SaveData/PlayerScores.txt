@@ -1,0 +1,11 @@
+{"Score":200600,"Name":"ABC","TimeFinish":"00:02:45","Difficulty":"Hard","GameSize":16}
+{"Score":195600,"Name":"DEF","TimeFinish":"00:03:30","Difficulty":"Hard","GameSize":16}
+{"Score":99400,"Name":"GHI","TimeFinish":"00:01:05","Difficulty":"Medium","GameSize":12}
+{"Score":89400,"Name":"JKL","TimeFinish":"00:01:40","Difficulty":"Medium","GameSize":12}
+{"Score":32100,"Name":"MNO","TimeFinish":"00:00:16","Difficulty":"Easy","GameSize":9}
+{"Score":28100,"Name":"PQR","TimeFinish":"00:00:40","Difficulty":"Easy","GameSize":9}
+{"Score":28100,"Name":"JOS","TimeFinish":"00:00:33.0287738","Difficulty":"Easy","GameSize":9}
+{"Score":32365,"Name":"JOS","TimeFinish":"00:00:15.7358244","Difficulty":"Easy","GameSize":9}
+{"Score":28100,"Name":"DEE","TimeFinish":"00:01:49.7980063","Difficulty":"Easy","GameSize":9}
+{"Score":33951,"Name":"JOS","TimeFinish":"00:00:14.1498698","Difficulty":"Easy","GameSize":9}
+{"Score":28100,"Name":"JOS","TimeFinish":"00:00:26.1960553","Difficulty":"Easy","GameSize":9}

@@ -9,3 +9,4 @@
 {"Score":28100,"Name":"DEE","TimeFinish":"00:01:49.7980063","Difficulty":"Easy","GameSize":9}
 {"Score":33951,"Name":"JOS","TimeFinish":"00:00:14.1498698","Difficulty":"Easy","GameSize":9}
 {"Score":28100,"Name":"JOS","TimeFinish":"00:00:26.1960553","Difficulty":"Easy","GameSize":9}
+{"Score":28100,"Name":"JOS","TimeFinish":"00:00:56.1412160","Difficulty":"Easy","GameSize":9}
